@@ -1,0 +1,13 @@
+*{font-family:calibri;}
+img{float:left;}
+span{font-weight: 600;}
+h2{border-bottom: 2px dashed black;}
+a{text-decoration:none;}
+a:link{color:darkorange;}
+a:visited{color:crimson;}
+a:hover{color:hotpink;}
+a:active{color:steelblue;}
+.skills li {float:left; margin-right:20px; padding:10px 25px; font-size:18px; background-color:powderblue; border:none; border-radius:1cm;}
+.skills li:hover {background-color:black; color:white;}
+
+body{background-image:url("Balls.jpg");background-size:cover;background-repeat: no-repeat;background-attachment: fixed;}
